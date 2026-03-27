@@ -153,82 +153,130 @@ function initializeStoryModals() {
   const stories = {
     meetgreet: {
       category: 'Airport Parking',
-      title: 'Why Meet & Greet Changed Our Family Holidays',
+      title: 'Meet & Greet Parking: The Family Travel Game-Changer',
       image: 'assets/parking-story.jpg',
       content: `
-        <p>Sarah Thompson, a mum of two from Manchester, remembers the "before times" all too well. The 5am alarm. The frantic rush to get the kids ready. The long-stay car park that always seemed full. The shuttle bus that took forever. The stressed arrival at check-in with 20 minutes to spare.</p>
+        <p>The traditional airport parking routine is familiar to most UK families: the 5am alarm, the frantic rush to get everyone ready, the drive to a long-stay car park that's always further from the terminal than you remember, the shuttle bus with tired kids and heavy luggage, and the stressed arrival at check-in with barely enough time.</p>
 
-        <blockquote>"We were exhausted before we even got on the plane. It felt like the holiday started when we landed, not when we left home."</blockquote>
+        <p>Meet & greet parking flips this entire experience. Instead of adding stress to the start of your holiday, it eliminates it entirely.</p>
 
-        <p>Then, on a whim, Sarah booked meet & greet parking for a family trip to Spain last summer. "I thought it would be a luxury splurge," she laughs. "Turned out it was the best travel decision I've ever made."</p>
+        <h2>How Meet & Greet Actually Works</h2>
 
-        <h2>What Actually Happens</h2>
-
-        <p>Meet & greet works like this: you drive straight to the terminal entrance. A professional chauffeur meets you at the kerb, takes your keys, and drives your car to a secure off-site car park. When you land, they bring it back to the terminal before you arrive. You walk out, get in, and drive home.</p>
+        <p>The process is simple: you drive straight to the terminal entrance—the same drop-off point you'd use if someone was dropping you off. A professional chauffeur meets you at the kerb, takes your keys, and drives your car to a secure off-site car park. When you land, they bring it back to the terminal before you arrive. You walk out, get in, and drive home.</p>
 
         <p>No shuttles. No searching for your car. No dragging luggage across dark car parks at midnight.</p>
 
         <h2>The Family Benefits</h2>
 
-        <p>For families, the advantages stack up fast:</p>
+        <p>For families travelling with young children, the advantages are significant:</p>
 
         <ul>
           <li><strong>Terminal drop-off:</strong> Walk straight to check-in. No bus rides with tired kids.</li>
-          <li><strong>Less stress:</strong> Start your holiday relaxed, not frazzled.</li>
-          <li><strong>Save time:</strong> Check in within 2 minutes of parking.</li>
+          <li><strong>Reduced stress:</strong> Start your holiday relaxed instead of frazzled.</li>
+          <li><strong>Time savings:</strong> From car to check-in desk in under 2 minutes.</li>
           <li><strong>Guaranteed space:</strong> Pre-booked and confirmed, even during peak season.</li>
-          <li><strong>Secure parking:</strong> Park Mark approved, CCTV monitored car parks.</li>
+          <li><strong>Secure parking:</strong> Park Mark approved, CCTV monitored car parks with full insurance cover.</li>
         </ul>
 
         <h2>The Cost Reality</h2>
 
-        <p>"Everyone assumes it's expensive," Sarah says. "But when I compared it properly, meet & greet was only £15 more than official Birmingham long-stay. For a week. £15 to skip all that stress? Absolute no-brainer."</p>
+        <p>Many families assume meet & greet is prohibitively expensive—a luxury add-on for business travellers. The reality is different. At most UK airports, meet & greet booked 3 months in advance is only £15-25 more than official long-stay parking for a week. At peak times, it's often cheaper than last-minute official parking.</p>
 
-        <p>The secret? Book early. Meet & greet prices rise fast as the date approaches, but if you book 3 months ahead, the difference is minimal—and often cheaper than official airport parking.</p>
+        <p>Example: Birmingham Airport, one week in August 2026:</p>
 
-        <h2>Why They'll Never Go Back</h2>
+        <ul>
+          <li><strong>Official long-stay (booked 2 weeks ahead):</strong> £110</li>
+          <li><strong>Meet & greet (booked 3 months ahead):</strong> £95</li>
+        </ul>
 
-        <blockquote>"Last month we flew to Portugal. The kids were asking 'aren't we getting the bus?' They couldn't believe we were already at check-in. That's when I realized—we've completely changed how we travel. And there's no going back."</blockquote>
+        <p>The secret is booking early. Meet & greet prices rise faster than other parking options as dates approach, but early bookers get the best value.</p>
 
-        <p>Sarah's advice? "Try it once. Just once. You'll never park any other way again."</p>
+        <h2>Who It's Best For</h2>
+
+        <p>Meet & greet parking makes most sense for:</p>
+
+        <ul>
+          <li>Families with young children (under 8)</li>
+          <li>Anyone with mobility issues</li>
+          <li>Early morning or late-night flights</li>
+          <li>Travellers with heavy or bulky luggage</li>
+          <li>Business travellers on tight schedules</li>
+        </ul>
+
+        <p>If you're a couple travelling light with hand luggage only, traditional parking with a short shuttle ride might be perfectly fine. But if you're wrestling with car seats, pushchairs, and two suitcases while your toddler has a meltdown, meet & greet is worth every penny.</p>
 
         <a href="#search" class="modal-cta">Find meet & greet parking</a>
       `
     },
     lounges: {
       category: 'Airport Lounges',
-      title: 'The Secret to Stress-Free Family Travel',
+      title: 'Airport Lounges: Worth It for Families?',
       image: 'assets/lounge-story.jpg',
       content: `
-        <p>Mark and Emma Davies discovered airport lounges by accident. Their flight was delayed by 4 hours. Their two kids—aged 5 and 7—were already restless. The departure lounge was packed, noisy, and had nowhere for the kids to sit, let alone play.</p>
+        <p>Airport lounges used to be the exclusive domain of business travellers and frequent flyers. In 2026, they're increasingly popular with UK families—and for good reason. But are they actually worth the cost when you're travelling with kids?</p>
 
-        <p>"We were 20 minutes from a meltdown," Mark remembers. "Then I saw the lounge entrance. I thought 'how much can it really cost?' Turns out, £25 per person. £100 for the family. We paid it."</p>
+        <p>Here's the complete breakdown.</p>
 
-        <h2>What They Found Inside</h2>
+        <h2>What You Actually Get</h2>
 
-        <p>Airport lounges aren't what most people think. They're not just for business travellers in suits. Modern family lounges offer:</p>
+        <p>Airport lounges aren't what most people imagine. Modern family-friendly lounges offer:</p>
 
         <ul>
-          <li><strong>Free food and drinks:</strong> Hot meals, snacks, soft drinks, and coffee. Unlimited.</li>
-          <li><strong>Quiet comfortable seating:</strong> Actual sofas and armchairs, not metal benches.</li>
-          <li><strong>Play areas:</strong> Many lounges have dedicated kids' zones with toys and games.</li>
-          <li><strong>Showers:</strong> Perfect after early-morning drives or for freshening up.</li>
-          <li><strong>Fast WiFi:</strong> Keep the kids entertained with tablets.</li>
+          <li><strong>Free food and drinks:</strong> Hot meals, snacks, soft drinks, and coffee. Unlimited, no queuing.</li>
+          <li><strong>Comfortable seating:</strong> Actual sofas and armchairs, not metal benches. Often with charging points.</li>
+          <li><strong>Play areas:</strong> Many UK airport lounges now have dedicated kids' zones with toys and games.</li>
+          <li><strong>Showers:</strong> Perfect after early-morning drives or for freshening up before long-haul flights.</li>
+          <li><strong>Fast WiFi:</strong> Keep the kids entertained with tablets while you relax.</li>
+          <li><strong>Quiet environment:</strong> Significantly calmer than the main departure lounge.</li>
         </ul>
 
-        <p>"Within 10 minutes, the kids were calm, fed, and playing," Emma says. "We sat down with actual coffee and a hot meal. The stress just melted away. That 4-hour delay became the most relaxed part of our trip."</p>
+        <h2>The Cost Breakdown</h2>
 
-        <h2>The Math That Makes Sense</h2>
+        <p>Lounge access pricing varies by airport, time of year, and how far in advance you book:</p>
 
-        <p>Here's what changed Mark's mind permanently: "We worked it out. Four airport coffees: £16. Two kids' meal deals: £18. Snacks and drinks during the delay: another £20. We'd have spent £54 anyway, in a crowded, stressful environment. The lounge cost £46 more—and gave us 4 hours of calm, comfort, and unlimited food."</p>
+        <ul>
+          <li><strong>Walk-up (on the day):</strong> £35-45 per adult, £15-25 per child</li>
+          <li><strong>Pre-booked (3 months ahead):</strong> £20-28 per adult, £10-15 per child</li>
+          <li><strong>Family of 4 cost (pre-booked):</strong> £60-90</li>
+        </ul>
 
-        <blockquote>"Now we book lounge access every time. Even on short flights. It's not a luxury—it's how you start a holiday properly."</blockquote>
+        <p>For context, that £60-90 covers unlimited food and drinks for the entire family for as long as you're in the airport. In the main terminal, you'd easily spend £40-60 on mediocre airport meals and drinks—in a crowded, stressful environment.</p>
 
-        <h2>Pre-Book to Save</h2>
+        <h2>When It Makes Sense</h2>
 
-        <p>The Davies' top tip? Pre-book. Walk-up lounge access can be £35-40 per person. Book 3 months ahead and it drops to £20-25. For a family of four, that's a £60 saving.</p>
+        <p>Airport lounge access is most valuable when:</p>
 
-        <p>"Everyone thinks lounges are for posh people or business travellers," Emma says. "They're for anyone who wants to travel without the chaos. Once you've tried it, you'll never go back to the departure lounge circus."</p>
+        <ul>
+          <li><strong>Early flights:</strong> You arrive 3 hours early and need somewhere comfortable and calm</li>
+          <li><strong>Flight delays:</strong> Waiting becomes comfortable instead of stressful</li>
+          <li><strong>Young children:</strong> Play areas keep kids entertained; free snacks prevent meltdowns</li>
+          <li><strong>Long connections:</strong> Comfortable place to wait between flights</li>
+          <li><strong>Peak season:</strong> Escape the terminal chaos during school holidays</li>
+        </ul>
+
+        <h2>When to Skip It</h2>
+
+        <p>Lounges might not be worth it if:</p>
+
+        <ul>
+          <li>You're running tight on time (less than 90 minutes before boarding)</li>
+          <li>You're travelling with only hand luggage and plan to shop in the terminal</li>
+          <li>Your kids are older and happy to entertain themselves</li>
+          <li>You have lounge access through credit cards or airline status (use that instead)</li>
+        </ul>
+
+        <h2>The Smart Booking Strategy</h2>
+
+        <p>If you decide lounge access is worth it:</p>
+
+        <ul>
+          <li><strong>Book 6-8 weeks ahead:</strong> Save £10-15 per person vs walk-up rates</li>
+          <li><strong>Check what's included:</strong> Not all lounges have play areas; check before booking if you have young kids</li>
+          <li><strong>Factor in meal savings:</strong> If you'd buy airport food anyway, the real cost is lower than it appears</li>
+          <li><strong>Consider airport hotels with lounge access:</strong> Some package deals include both</li>
+        </ul>
+
+        <p>Bottom line: For families with young children taking early flights or facing potential delays, airport lounges often justify their cost through reduced stress and meal savings. For quick trips with older kids, they're a nice-to-have rather than essential.</p>
 
         <a href="#search" class="modal-cta">Search airport lounges</a>
       `
