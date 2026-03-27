@@ -47,6 +47,12 @@ function initializeProductTabs() {
 
   tabs.forEach(tab => {
     tab.addEventListener('click', () => {
+      // If "More" tab, redirect to Holiday Extras homepage
+      if (tab.dataset.product === 'other') {
+        window.location.href = 'https://www.holidayextras.com';
+        return;
+      }
+
       // Remove active from all tabs
       tabs.forEach(t => t.classList.remove('active'));
 
